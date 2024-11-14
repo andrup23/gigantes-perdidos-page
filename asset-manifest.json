@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.d7c30827.css",
-    "main.js": "./static/js/main.64001a3a.js",
-    "static/js/453.aa3c24a2.chunk.js": "./static/js/453.aa3c24a2.chunk.js",
-    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "./index.html",
-    "main.d7c30827.css.map": "./static/css/main.d7c30827.css.map",
-    "main.64001a3a.js.map": "./static/js/main.64001a3a.js.map",
-    "453.aa3c24a2.chunk.js.map": "./static/js/453.aa3c24a2.chunk.js.map"
+    "main.css": "/gigantes-perdidos-page/static/css/main.d7c30827.css",
+    "main.js": "/gigantes-perdidos-page/static/js/main.1b25a2be.js",
+    "static/js/453.aa3c24a2.chunk.js": "/gigantes-perdidos-page/static/js/453.aa3c24a2.chunk.js",
+    "static/media/logo.svg": "/gigantes-perdidos-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gigantes-perdidos-page/index.html",
+    "main.d7c30827.css.map": "/gigantes-perdidos-page/static/css/main.d7c30827.css.map",
+    "main.1b25a2be.js.map": "/gigantes-perdidos-page/static/js/main.1b25a2be.js.map",
+    "453.aa3c24a2.chunk.js.map": "/gigantes-perdidos-page/static/js/453.aa3c24a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7c30827.css",
-    "static/js/main.64001a3a.js"
+    "static/js/main.1b25a2be.js"
   ]
 }
